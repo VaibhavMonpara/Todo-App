@@ -1,3 +1,3 @@
-# Project-Todo
+# Todo-App
 
-This a simple Todo-app consisting a feature in which the user can add and delete todo's and can see the added date and time too. 
+A simple todo list application built using Python and Django. This app allows users to create, view, update, and delete tasks, helping them manage their daily activities. It serves as a basic project to demonstrate CRUD operations and Django's framework capabilities.
